@@ -20,6 +20,7 @@ def main():
 
         On GDAX, available pairs are :
         - BTC-USD, BTC-EUR, BTC-GBP
+        - BCH-USD, BCH-BTC, BCH-EUR
         - ETH-USD, ETH-BTC, ETH-EUR
         - LTC-USD, LTC-BRC, LTC-EUR
 

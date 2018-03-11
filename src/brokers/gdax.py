@@ -15,6 +15,7 @@ class GDAX(object):
     # URL to retrieve trades
     BASE_URL = 'https://api.gdax.com/products/'
     ALLOWED_PAIRS = ['BTC-USD', 'BTC-EUR', 'BTC-GBP',
+                     'BCH-USD', 'BCH-BTC', 'BCH-EUR',
                      'ETH-USD', 'ETH-BTC', 'ETH-EUR',
                      'LTC-USD', 'LTC-BTC', 'LTC-EUR']
 
