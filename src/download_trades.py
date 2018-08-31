@@ -22,7 +22,7 @@ def main():
         - BTC-USD, BTC-EUR, BTC-GBP
         - BCH-USD, BCH-BTC, BCH-EUR
         - ETH-USD, ETH-BTC, ETH-EUR
-        - LTC-USD, LTC-BRC, LTC-EUR
+        - LTC-USD, LTC-BTC, LTC-EUR
 
         On Kraken, available pairs are:
         - XBTCAD, XBTEUR, XBTGBP, XBTJPY, XBTUSD
