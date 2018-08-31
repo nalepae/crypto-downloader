@@ -137,9 +137,9 @@ def main():
         U       microseconds
         N       nanoseconds
 
-        Example: To resample every minute  : freq = 'T' or freq = '1T'
-                 To resample every 2 days  : freq = '2D'
-                 To resample every 6 months: freq = '6M'
+        Example: To resample every minute  : period = 'T' or freq = '1T'
+                 To resample every 2 days  : period = '2D'
+                 To resample every 6 months: period = '6M'
         """
 
     # Parse CLI arguments
