@@ -2,3 +2,7 @@
 .cache
 *.log
 *.sh
+.mypy_cache
+.python-version
+settings.json
+crypto_data.egg-info
