@@ -1,4 +1,7 @@
 # Crypto Downloader
+
+## About
+
 This program downloads all trades from GDAX/Coinbase & Kraken since the beginning.
 It writes the result in a CSV file.
 
